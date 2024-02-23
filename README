@@ -1,0 +1,23 @@
+Author: ANITA BHAT
+License: Property of Sasken
+Date: Aug 2 2023
+
+Hexadecimal Number Reversal Program
+
+This program takes a hexadecimal number as input and reverses it byte-wise. For example, if the input is "7B316," the output will be "1637B."
+
+To complile and run
+
+1. Ensure you have a C++ compiler (e.g., g++) installed on your system.
+
+2. Download the source code files from the repository.
+
+3. Open a terminal (or command prompt) and navigate to the directory containing the source code files.
+
+4. To compile the program, use the `make` command:
+This will generate an executable named "main" in the same directory.
+
+5. To run the program, use the following command:
+The program will prompt you to enter a hexadecimal number. After entering the number, it will display the reversed hexadecimal result.
+
+6. Clean up the compiled object files and the executable using:
